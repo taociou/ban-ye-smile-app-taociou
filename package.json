@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "name": "ban-ye-smile-app-taociou",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node App.js"
+  }
+}
