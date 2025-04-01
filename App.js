@@ -32,7 +32,7 @@ function App() {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
-          Authorization: `Bearer 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
+          Authorization: 'Bearer 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
         body: JSON.stringify({
           model: 'gpt-3.5-turbo',
           messages: [{ role: 'user', content: prompt }],
